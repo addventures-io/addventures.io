@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_flag</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-994.000000, -2008.000000)" fill-rule="nonzero">
+            <g id="Icon_flag" transform="translate(994.000000, 2008.000000)">
+                <path d="M12,36 L56,36 L48,24 L4,24 L4,52 C4,54.2091 5.79086,56 8,56 C10.2091,56 12,54.2091 12,52 L12,36 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+                <polygon id="Path" fill="#5754E5" points="53 4 0 4 0 16 45 16"></polygon>
+                <path d="M0,4 C0,1.79086 1.79086,0 4,0 C6.2091,0 8,1.79086 8,4 L8,16 L0,16 L0,4 Z" id="Path" fill="#5754E5"></path>
+                <polygon id="Path" fill="#5754E5" points="53 32 0 32 0 20 45 20"></polygon>
+                <path d="M0,20 L4,20 C6.2091,20 8,21.7909 8,24 L8,48 C8,50.2091 6.2091,52 4,52 C1.79086,52 0,50.2091 0,48 L0,20 Z" id="Path" fill="#5754E5"></path>
+                <polygon id="Path" fill="url(#linearGradient-1)" points="4 8 45 8 39.6667 16 45 24 4 24"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_rating</title>
+    <defs>
+        <linearGradient x1="-266.666667%" y1="-100%" x2="-266.666667%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="366.666667%" y1="-300%" x2="366.666667%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-628.000000, -2524.000000)" fill-rule="nonzero">
+            <g id="Icon_rating" transform="translate(628.000000, 2524.000000)">
+                <path d="M23,16 C23,13.7909 24.7909,12 27,12 L33,12 C35.2091,12 37,13.7909 37,16 L37,52 C37,54.2091 35.2091,56 33,56 L27,56 C24.7909,56 23,54.2091 23,52 L23,16 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+                <path d="M42,36 C42,33.7909 43.7909,32 46,32 L52,32 C54.2091,32 56,33.7909 56,36 L56,52 C56,54.2091 54.2091,56 52,56 L46,56 C43.7909,56 42,54.2091 42,52 L42,36 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+                <path d="M18,46 C18,43.7909 16.2091,42 14,42 L8,42 C5.79086,42 4,43.7909 4,46 L4,52 C4,54.2091 5.79086,56 8,56 L14,56 C16.2091,56 18,54.2091 18,52 L18,46 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+                <path d="M19,8 L33,8 L33,48 C33,50.2091 31.2091,52 29,52 L23,52 C20.7909,52 19,50.2091 19,48 L19,8 Z" id="Path" fill="#5754E5"></path>
+                <path d="M38,28 L52,28 L52,48 C52,50.2091 50.2091,52 48,52 L42,52 C39.7909,52 38,50.2091 38,48 L38,28 Z" id="Path" fill="#5754E5"></path>
+                <path d="M14,38 L0,38 L0,48 C0,50.2091 1.79086,52 4,52 L10,52 C12.2091,52 14,50.2091 14,48 L14,38 Z" id="Path" fill="#5754E5"></path>
+                <path d="M19,4 C19,1.79086 20.7909,0 23,0 L29,0 C31.2091,0 33,1.79086 33,4 L19,4 Z" id="Path" fill="#5754E5"></path>
+                <path d="M38,24 C38,21.7909 39.7909,20 42,20 L48,20 C50.2091,20 52,21.7909 52,24 L38,24 Z" id="Path" fill="#5754E5"></path>
+                <path d="M0,34 C0,31.7909 1.79086,30 4,30 L10,30 C12.2091,30 14,31.7909 14,34 L0,34 Z" id="Path" fill="#5754E5"></path>
+                <path d="M42,26 C42,24.8954 42.8954,24 44,24 L46,24 C47.1046,24 48,24.8954 48,26 L48,42 C48,43.1046 47.1046,44 46,44 L44,44 C42.8954,44 42,43.1046 42,42 L42,26 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M4,36 C4,34.8954 4.89543,34 6,34 L8,34 C9.1046,34 10,34.8954 10,36 L10,42 C10,43.1046 9.1046,44 8,44 L6,44 C4.89543,44 4,43.1046 4,42 L4,36 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <path d="M23,6 C23,4.89543 23.8954,4 25,4 L27,4 C28.1046,4 29,4.89543 29,6 L29,42 C29,43.1046 28.1046,44 27,44 L25,44 C23.8954,44 23,43.1046 23,42 L23,6 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="52px" viewBox="0 0 56 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_home</title>
+    <defs>
+        <linearGradient x1="50%" y1="-7.01430005e-05%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-994.000000, -2281.000000)">
+            <g id="Icon_home" transform="translate(994.000000, 2281.000000)">
+                <path d="M52,28 L52,48 C52,50.2091 50.2091,52 48,52 L38,52 C36.8954,52 36,51.1046 36,50 L36,44 C36,41.7909 34.2091,40 32,40 C29.7909,40 28,41.7909 28,44 L28,50 C28,51.1046 27.1046,52 26,52 L16,52 C13.7909,52 12,50.2091 12,48 L12,28 L52,28 Z" id="Path" fill-opacity="0.1" fill="#030B26" fill-rule="nonzero"></path>
+                <path d="M48,24 L48,44 C48,46.2091 46.2091,48 44,48 L34,48 C32.8954,48 32,47.1046 32,46 L32,40 C32,37.7909 30.2091,36 28,36 C25.7909,36 24,37.7909 24,40 L24,46 C24,47.1046 23.1046,48 22,48 L12,48 C9.7909,48 8,46.2091 8,44 L8,24 L48,24 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#3F3CBE" fill-rule="nonzero" points="54 20 47.5 15 28 4 8.5 15 2.00004 20"></polygon>
+                <path d="M26.9518,0.29668 C27.5947,-0.09889 28.4054,-0.09889 29.0482,0.29668 L55.0482,16.2967 C55.9889,16.8756 56.2823,18.1075 55.7034,19.0482 C55.1245,19.9889 53.8926,20.2822 52.9518,19.7033 L28,4.3484 L3.04823,19.7033 C2.10752,20.2822 0.87562,19.9889 0.29672,19.0482 C-0.28218,18.1075 0.01113,16.8756 0.95184,16.2967 L26.9518,0.29668 Z" id="Path" fill="#5754E5"></path>
+                <path d="M26.94,4.6624 C27.5885,4.2571 28.4115,4.2571 29.06,4.6624 L44,13.9999 L44,35.9999 C44,38.209 42.2091,39.9999 40,39.9999 L38,39.9999 C36.8954,39.9999 36,39.1062 36,38.0016 L36,33.9999 C36,29.4999 31.493,27.9999 28,27.9999 C24.507,27.9999 20,29.5816 20,33.9999 L20,38.0004 C20,39.105 19.1046,39.9999 18,39.9999 L16,39.9999 C13.7909,39.9999 12,38.209 12,35.9999 L12,13.9999 L26.94,4.6624 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_safety</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-248.000000, -2524.000000)">
+            <g id="Icon_safety" transform="translate(248.000000, 2524.000000)">
+                <path d="M56,12 C56,12 55.7858,15.3795 55.0717,20 L36,20 C33.7909,20 32,18.2091 32,16 L32,4 L56,12 Z M50,38 C52.0736,33.8528 53.4604,28.6556 54.3729,24 L36,24 C33.7909,24 32,25.7909 32,28 L32,56 C32,56 45,48 50,38 Z" id="Shape" fill-opacity="0.1" fill="#030B26"></path>
+                <path d="M1.6272,20 C2.53971,24.6556 3.92647,29.8528 6.0001,34 C11.0001,44 24.0001,52 24.0001,52 L24.0001,24 C24.0001,21.7909 22.2092,20 20.0001,20 L1.6272,20 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M50.3729,20 C49.4604,24.6556 48.0736,29.8528 46,34 C41,44 28,52 28,52 L28,24 C28,21.7909 29.7909,20 32,20 L50.3729,20 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M0.92831,16 C0.21425,11.3795 0,8 0,8 L24,0 L24,12 C24,14.2091 22.2091,16 20,16 L0.92831,16 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M51.0717,16 C51.7858,11.3795 52,8 52,8 L28,0 L28,12 C28,14.2091 29.7909,16 32,16 L51.0717,16 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M12.1538,27.5385 C8.7037,20.6381 8,9.5385 8,9.5385 L26,4 L44,9.5385 C44,9.5385 43.2963,20.6381 39.8462,27.5385 C36.3846,34.4615 26,40 26,40 C26,40 15.6154,34.4615 12.1538,27.5385 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

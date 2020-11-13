@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="52px" viewBox="0 0 56 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_cards</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-628.000000, -2008.000000)">
+            <g id="Icon_cards" transform="translate(628.000000, 2008.000000)">
+                <path d="M4,8 C4,3.58172 7.5817,0 12,0 L40,0 C44.4183,0 48,3.58172 48,8 L4,8 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M12,16 C7.5817,16 4,19.5817 4,24 L4,44 C4,48.4183 7.5817,52 12,52 L48,52 C52.4183,52 56,48.4183 56,44 L56,24 C56,19.5817 52.4183,16 48,16 L12,16 Z M52,24 L8,24 L8,32 L52,32 L52,24 Z" id="Shape" fill-opacity="0.1" fill="#030B26"></path>
+                <path d="M8,12 C3.58172,12 0,15.5817 0,20 L0,40 C0,44.4183 3.58172,48 8,48 L44,48 C48.4183,48 52,44.4183 52,40 L52,20 C52,15.5817 48.4183,12 44,12 L8,12 Z M48,20 L4,20 L4,28 L48,28 L48,20 Z" id="Shape" fill="#5754E5"></path>
+                <path d="M14,4 C10.6863,4 8,6.6863 8,10 L8,12.3414 C5.66962,13.1651 4,15.3876 4,18 L4,34 C4,37.3137 6.6863,40 10,40 L42,40 C45.3137,40 48,37.3137 48,34 L48,18 C48,15.3876 46.3304,13.1651 44,12.3414 L44,10 C44,6.6863 41.3137,4 38,4 L14,4 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

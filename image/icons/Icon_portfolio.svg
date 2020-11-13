@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="54px" viewBox="0 0 56 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_portfolio</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-248.000000, -2009.000000)">
+            <g id="Icon_portfolio" transform="translate(248.000000, 2009.000000)">
+                <path d="M4.70703,49.293 C5.9623,52.0687 8.7556,54 12,54 L48,54 C52.4183,54 56,50.4183 56,46 L56,30 L52,31.2308 L52,42 C52,46.4183 48.4183,50 44,50 L8,50 C6.8261,50 5.71132,49.7472 4.70703,49.293 Z" id="Path" fill-opacity="0.1" fill="#030B26" fill-rule="nonzero"></path>
+                <path d="M0,42 L0,26 L23.6473,33.2761 C25.1803,33.7478 26.8197,33.7478 28.3527,33.2761 L52,26 L52,42 C52,46.4183 48.4183,50 44,50 L8,50 C3.58172,50 0,46.4183 0,42 Z" id="Path" fill="#5754E5" fill-rule="nonzero"></path>
+                <path d="M14.1406,10 C14.4025,8.1356 15.0641,6.0812 16.4,4.3 C18.3114,1.75141 21.4289,0 26,0 C30.5711,0 33.6886,1.75141 35.6,4.3 C36.9359,6.0812 37.5975,8.1356 37.8594,10 L44,10 C48.4183,10 52,13.5817 52,18 L52,22 L28.3527,29.2761 C26.8197,29.7478 25.1803,29.7478 23.6473,29.2761 L0,22 L0,18 C0,13.5817 3.58172,10 8,10 L14.1406,10 Z M18.1951,10 C18.4243,8.8406 18.869,7.6747 19.6,6.7 C20.6886,5.24859 22.5711,4 26,4 C29.4289,4 31.3114,5.24859 32.4,6.7 C33.131,7.6747 33.5757,8.8406 33.8049,10 L18.1951,10 Z M26,26 C27.6569,26 29,24.6569 29,23 C29,21.3431 27.6569,20 26,20 C24.3431,20 23,21.3431 23,23 C23,24.6569 24.3431,26 26,26 Z" id="Shape" fill="#5754E5"></path>
+                <path d="M48,20 L48,36 C48,39.3137 45.3137,42 42,42 L10,42 C6.6863,42 4,39.3137 4,36 L4,20 C4,16.6863 6.6863,14 10,14 L42,14 C45.3137,14 48,16.6863 48,20 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

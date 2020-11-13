@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="56px" viewBox="0 0 52 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_apps</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon_apps" fill-rule="nonzero">
+            <polygon id="Path" fill-opacity="0.1" fill="#030B26" points="4 26 4 30 26 30 26 8 22 8 22 26"></polygon>
+            <path d="M4.707,51.293 C5.7113,51.7472 6.8261,52 8,52 L22,52 L22,34 L26,34 L26,56 L12,56 C8.7556,56 5.9623,54.0687 4.707,51.293 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+            <path d="M30,52 L30,56 L44,56 C48.4183,56 52,52.4183 52,48 L52,34 L48,34 L48,44 C48,48.4183 44.4183,52 40,52 L30,52 Z" id="Path" fill-opacity="0.1" fill="#030B26"></path>
+            <path d="M22,4 L8,4 C3.58172,4 0,7.5817 0,12 L0,26 L22,26 L22,4 Z" id="Path" fill="#FCCF2F"></path>
+            <path d="M0,30 L0,44 C0,48.4183 3.58172,52 8,52 L22,52 L22,30 L0,30 Z" id="Path" fill="#FCCF2F"></path>
+            <path d="M26,52 L26,30 L48,30 L48,44 C48,48.4183 44.4183,52 40,52 L26,52 Z" id="Path" fill="#FCCF2F"></path>
+            <path d="M30,0 L44,0 C48.4183,0 52,3.58172 52,8 L52,22 L30,22 L30,0 Z" id="Path" fill="#FCCF2F"></path>
+            <path d="M8,10 C8,6.6863 10.6863,4 14,4 L42,4 C45.3137,4 48,6.6863 48,10 L48,38 C48,41.3137 45.3137,44 42,44 L14,44 C10.6863,44 8,41.3137 8,38 L8,10 Z" id="Path" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
+</svg>
