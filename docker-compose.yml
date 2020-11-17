@@ -1,0 +1,18 @@
+version: '3.6'
+
+services:
+  docker:
+    container_name: addventures.io
+    restart: always
+    image: nginx
+    expose:
+      - 80
+    volumes:
+      - ./dist:/usr/share/nginx/html
+    environment:
+      - VIRTUAL_HOST=addventures.io,www.addventures.io
+
+networks:
+  default:
+    external:
+      name: nginx-proxy
